@@ -1,6 +1,6 @@
 #include "Sort.h"
 
-Sort:: Sort()  // how to use initialization list with arrays? : dataArray(0), size(0)
+Sort:: Sort() 
 {
 	SortData dataArray[NUMRECS] = {0};
 	size = 0;

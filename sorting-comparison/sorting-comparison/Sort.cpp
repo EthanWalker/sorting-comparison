@@ -1,6 +1,6 @@
 #include "Sort.h"
 
-Sort:: Sort() 
+Sort:: Sort()  
 {
 	SortData dataArray[NUMRECS] = {0};
 	size = 0;

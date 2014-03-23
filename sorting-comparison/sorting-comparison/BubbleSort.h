@@ -21,12 +21,7 @@ public:
 protected:
 	virtual void sort(); 
 	virtual void printName();
-	//	- SortData temp
-	//- constructor()
-	//    - should call Sort() constructor
-	//    - should also initialize temp
-	//- sort()
-	//    - pairwise comparisons all the way up
+
 
 };
 

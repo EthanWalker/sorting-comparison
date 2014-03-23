@@ -47,9 +47,3 @@ void BubbleSort::sort()
 	}
 		
 }
-	//	- SortData temp
-	//- constructor()
-	//    - should call Sort() constructor
-	//    - should also initialize temp
-	//- sort()
-	//    - pairwise comparisons all the way up

@@ -12,7 +12,7 @@ Queue::~Queue()
 
 void Queue::push(Sort::SortData sortData)
 {
-	int tail = head+size;	//    (don't forget to wrap around if needed) ???
+	int tail = head+size;	
 	if(tail >= (NUMRECS) && head == 0)
 	{
 		return;
